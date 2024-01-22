@@ -4,3 +4,7 @@
 <p>🔺 And I'm currently learning about AI</p>
 <h1>Me?</h1>
 <img src="https://i.ibb.co/svj5BqD/e84edb279472c7ab49e97ec276d4ffda.gif">
+<h1>Donation</h1>
+<p>1. <a href="#">Saweria</a></p>
+<p>2. <a href="#">Buy me a coffe</a></p>
+<p>3. <a href="#">Trakter</a></p>
