@@ -7,4 +7,4 @@
 <h1>Donation</h1>
 <p>1. <a href="https://saweria.co/Radianza">Saweria</a></p>
 <p>2. <a href="ko-fi.com/nekorey">Buy me a coffe</a></p>
-<p>3. <a href="#">Trakter</a></p>
+<p>3. <a href="https://trakteer.id/itsmiyabi">Trakteer</a></p>
