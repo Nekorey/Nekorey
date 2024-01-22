@@ -1,4 +1,4 @@
-💎Hai gys Welcome💎
-Selamat datang Mina
-📢just call my name Neko📢
-If you find a bug or error, chat me📩
+<h1>About</h1>
+<p>I am a software engineer</p>
+<p>Here I will share some of my projects</p>
+<p>And I'm currently learning about AI</p>
